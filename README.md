@@ -1,2 +1,2 @@
 # Dalbyover
-Some material for the the Dalbyover data. 
+See the notebook for comments and code. 
